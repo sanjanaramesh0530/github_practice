@@ -1,0 +1,4 @@
+diverged 
+non-fast-forward
+rejected
+working tree clean
